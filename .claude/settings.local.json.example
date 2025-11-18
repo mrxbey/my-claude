@@ -1,0 +1,25 @@
+{
+  "$schema": "https://docs.claude.com/schemas/claude-settings.schema.json",
+
+  "_comment": "This is an example local settings file. Copy to settings.local.json and customize.",
+  "_comment2": "Local settings override project settings and are gitignored for personal preferences.",
+
+  "model": "claude-sonnet-4-20250514",
+
+  "env": {
+    "ANTHROPIC_API_KEY": "${ANTHROPIC_API_KEY}",
+    "MY_CUSTOM_VAR": "my-value"
+  },
+
+  "permissions": {
+    "_comment": "Add personal permission overrides here",
+    "allow": [
+      "Write(my-personal-notes/**)"
+    ]
+  },
+
+  "hooks": {
+    "_comment": "Add personal hooks here (e.g., your preferred formatter)",
+    "PostToolUse": []
+  }
+}
