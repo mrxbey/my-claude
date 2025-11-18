@@ -818,6 +818,8 @@ Quality Gate 6: Report complete, professional, and all findings cited?
 
 **Use Cases**: Market research, vendor selection, academic research, due diligence, trend analysis, policy research
 
+**📖 See Example**: [Research & Synthesis Example](../../examples/research-synthesis/) - Complete 12-page research report with evidence table and citations
+
 ---
 
 ### Content Creation Workflow
@@ -976,6 +978,8 @@ Publication-ready content file with:
 
 **Use Cases**: Blog posts, whitepapers, marketing copy, case studies, guides, email newsletters, social media, press releases
 
+**📖 See Example**: [Content Creation Example](../../examples/content-creation/) - Publication-ready 1,482-word blog post with SEO optimization
+
 ---
 
 ### Professional Email Workflow
@@ -1125,6 +1129,8 @@ Subject: [Clear, specific, actionable]
 ```
 
 **Use Cases**: Executive emails, client communication, difficult conversations, requests, follow-ups, thank you notes
+
+**📖 See Example**: [Professional Email Example](../../examples/professional-email/) - Real email examples showing tone adaptation and professional quality
 
 ---
 
@@ -1287,6 +1293,8 @@ Quality Gate: Recommendations actionable and prioritized?
 
 **Use Cases**: Product strategy, pricing decisions, market entry, sales enablement, investor presentations
 
+**📖 See Example**: [Competitive Analysis Example](../../examples/competitive-analysis/) - 20-page strategic analysis with positioning map and actionable recommendations
+
 ---
 
 ### Proposal & Pitch Workflow
@@ -1441,6 +1449,8 @@ Professional proposal with:
 
 **Use Cases**: Sales proposals, RFP responses, grant applications, partnership proposals, investor pitches, business cases
 
+**📖 See Example**: [Proposal & Pitch Example](../../examples/proposal-pitch/) - Complete 12-page proposal with ROI calculations and executive summary
+
 ---
 
 ### Meeting Preparation Workflow
@@ -1593,6 +1603,8 @@ Quality Gate: Ready to run effective meeting?
 ```
 
 **Use Cases**: Sales calls, exec meetings, board meetings, investor pitches, performance reviews, negotiations, kickoffs
+
+**📖 See Example**: [Meeting Preparation Example](../../examples/meeting-prep/) - Comprehensive meeting brief with participant profiles, Q&A prep, and success planning
 
 ---
 
