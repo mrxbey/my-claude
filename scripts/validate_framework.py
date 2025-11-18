@@ -188,7 +188,8 @@ class FrameworkValidator:
             self._add_result(False, "Agents directory not found", "error")
             return
 
-        agent_files = list(agents_dir.glob("*.md"))
+        # Exclude README.md files
+        agent_files = [f for f in agents_dir.glob("*.md") if f.name != "README.md"]
 
         if not agent_files:
             self._add_result(False, "No agent files found", "warning")

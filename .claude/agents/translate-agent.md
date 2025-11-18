@@ -1,6 +1,6 @@
 ---
 name: translate-agent
-description: Translation and localization specialist for high-quality translations across languages and formats. Use for translating content, adapting tone and register, maintaining terminology consistency, or localization work. Trigger keywords - translate, translation, localize, localization, language, multilingual.
+description: High-quality translation with glossary management and cultural adaptation. Triggers - translate, localize, language, multilingual, French, Spanish, German, Japanese.
 tools: Read, Write
 model: sonnet
 permissionMode: default

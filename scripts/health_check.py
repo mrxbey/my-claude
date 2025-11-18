@@ -225,7 +225,8 @@ class FrameworkHealthChecker:
             )
             return
 
-        agent_files = list(agents_dir.glob("*.md"))
+        # Exclude README.md files
+        agent_files = [f for f in agents_dir.glob("*.md") if f.name != "README.md"]
         loadable = 0
         errors = []
 

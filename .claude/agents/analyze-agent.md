@@ -1,6 +1,6 @@
 ---
 name: analyze-agent
-description: Deep analysis specialist for code, data, business situations, and complex problems. Use for comprehensive analysis, strategic evaluation, multi-factor comparison, or when systematic thinking is needed. Trigger keywords - analyze, analysis, evaluate, assessment, review, investigate, examine, study.
+description: Systematic analysis using frameworks like SWOT and decision matrices. Triggers - analyze, evaluate, compare, investigate, study, strategic, decision.
 tools: Read, Grep, Glob, Edit, Write, Bash
 model: sonnet
 permissionMode: default

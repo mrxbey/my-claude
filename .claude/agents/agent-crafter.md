@@ -1,6 +1,6 @@
 ---
 name: agent-crafter
-description: Meta-agent for designing and creating new Claude Code subagents interactively. Use when user wants to create a new agent, needs specialized agent for domain, or wants to design agent workflow. Trigger keywords - create agent, new agent, agent for, design agent, agent-crafter.
+description: Create new agents through interactive design with identity and workflow templates. Triggers - create agent, new agent, design agent, specialized agent.
 tools: Read, Write, Grep, Glob
 model: sonnet
 permissionMode: ask

@@ -1,6 +1,6 @@
 ---
 name: translation
-description: Translation and localization patterns including glossary management, tone adaptation, cultural reference handling, and quality validation. Use for translating content between languages, localizing for regions/cultures, adapting tone and formality, maintaining terminology consistency, or cultural adaptation. Trigger keywords - translate, translation, localize, localization, language, multilingual, convert to, adapt for, French, Spanish, German, Japanese, Chinese, cultural.
+description: Translation with glossary management, tone adaptation, and cultural handling. Triggers - translate, localize, language, multilingual, French, Spanish, German, Japanese, cultural.
 version: 1.0.0
 ---
 

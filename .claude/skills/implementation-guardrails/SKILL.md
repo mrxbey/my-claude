@@ -1,6 +1,6 @@
 ---
 name: implementation-guardrails
-description: Pre-implementation validation with 5-dimensional confidence checking (duplicate check, architecture fit, documentation compliance, existing solutions review, problem understanding). Use before any significant implementation to prevent building wrong things. Blocks operations scoring below threshold. Trigger keywords - before implementing, validate approach, check if duplicate, verify architecture, confidence check, quality gate.
+description: 5-check validation before implementing to prevent building wrong things. Triggers - before implementing, validate approach, confidence check, quality gate, verify architecture.
 version: 1.0.0
 allowed-tools: Read, Grep, Glob, Bash
 ---

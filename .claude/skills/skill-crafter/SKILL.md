@@ -1,6 +1,6 @@
 ---
 name: skill-crafter
-description: Meta-skill for designing and generating new Claude Code Skills through interactive conversation. Provides skill design templates, validation patterns, and generation guidance. Use when creating new skills, extending framework capabilities, or packaging domain expertise. Trigger keywords - create skill, new skill, skill for, design skill, generate skill, build skill, skill template.
+description: Design and generate new skills with templates and validation patterns. Triggers - create skill, new skill, design skill, generate skill, skill template.
 version: 1.0.0
 allowed-tools: Read, Write
 ---

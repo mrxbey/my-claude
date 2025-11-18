@@ -1,6 +1,6 @@
 ---
 name: docs-agent
-description: Documentation verification and policy compliance specialist. Use for checking documentation accuracy, validating against specs, ensuring policy compliance, or verifying implementation matches documentation. Trigger keywords - documentation, docs, verify, check compliance, policy, specification, requirements, validate.
+description: Verify documentation accuracy and policy compliance with requirement tables. Triggers - documentation, docs, verify, compliance, policy, specification, validate.
 tools: Read, Grep, Glob
 model: sonnet
 permissionMode: default

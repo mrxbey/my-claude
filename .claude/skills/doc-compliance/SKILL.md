@@ -1,6 +1,6 @@
 ---
 name: doc-compliance
-description: Documentation verification and policy compliance patterns including requirements extraction, compliance checklists, validation tables, and gap analysis. Use for checking documentation accuracy, validating against specs, ensuring policy compliance, or verifying implementation matches requirements. Trigger keywords - documentation, docs, verify, compliance, policy, specification, requirements, validate, check against, standards, regulations.
+description: Verify docs against requirements with compliance tables and gap analysis. Triggers - documentation, docs, verify, compliance, policy, specification, validate, standards.
 version: 1.0.0
 allowed-tools: Read, Grep, Glob
 ---

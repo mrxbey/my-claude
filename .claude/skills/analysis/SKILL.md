@@ -1,6 +1,6 @@
 ---
 name: analysis
-description: Systematic analysis patterns for complex problems including decomposition, options evaluation, risk assessment, and structured recommendations. Use for analysis tasks, strategic evaluation, multi-factor comparison, decision-making, or when systematic thinking is needed. Trigger keywords - analyze, analysis, evaluate, assessment, compare, options, strategy, investigate, examine, study, breakdown, insight.
+description: Analysis frameworks like SWOT, cost-benefit, decision matrices for complex problems. Triggers - analyze, evaluate, compare, SWOT, strategic, decision, options.
 version: 1.0.0
 allowed-tools: Read, Grep, Glob, Bash
 ---

@@ -1,6 +1,6 @@
 ---
 name: skill-crafter
-description: Meta-agent for designing and creating new Claude Code Skills interactively. Use when user wants to create a new skill, add capability to framework, or needs help designing a skill. Trigger keywords - create skill, new skill, skill for, design skill, skill-crafter.
+description: Create new skills through interactive design with templates and validation. Triggers - create skill, new skill, design skill, add capability.
 tools: Read, Write, Grep, Glob
 model: sonnet
 permissionMode: ask

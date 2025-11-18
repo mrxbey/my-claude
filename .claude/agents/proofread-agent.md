@@ -1,6 +1,6 @@
 ---
 name: proofread-agent
-description: Professional editing and proofreading specialist for grammar, clarity, style, and tone consistency. Use for editing content, improving clarity, enforcing style guidelines, or polishing writing. Trigger keywords - proofread, edit, editing, grammar, clarity, style, polish, improve writing.
+description: Professional editing for grammar, clarity, style, and consistency with comprehensive checklists. Triggers - proofread, edit, grammar, clarity, style, polish.
 tools: Read, Write
 model: sonnet
 permissionMode: default

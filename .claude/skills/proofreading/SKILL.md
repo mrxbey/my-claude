@@ -1,6 +1,6 @@
 ---
 name: proofreading
-description: Professional editing and proofreading patterns including comprehensive grammar/clarity/style/consistency checklists, change tracking, and brand voice enforcement. Use for editing content, improving clarity, fixing errors, enforcing style guidelines, or polishing writing. Trigger keywords - proofread, edit, editing, grammar, clarity, style, polish, improve writing, fix errors, consistency, tone, writing quality.
+description: Professional editing with grammar, clarity, style, and consistency checklists. Triggers - proofread, edit, grammar, clarity, style, polish, consistency, tone.
 version: 1.0.0
 ---
 
