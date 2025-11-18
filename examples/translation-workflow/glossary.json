@@ -1,0 +1,235 @@
+{
+  "project": "CloudSync Pro Product Launch - Spanish Translation",
+  "source_language": "English (US)",
+  "target_language": "Spanish (Latin America)",
+  "last_updated": "2024-11-18",
+  "terms": [
+    {
+      "english": "collaboration platform",
+      "spanish": "plataforma de colaboración",
+      "notes": "Standard term in Latin American tech. Avoid 'plataforma colaborativa' which is less common.",
+      "context": "Product description",
+      "approved": true
+    },
+    {
+      "english": "real-time",
+      "spanish": "tiempo real",
+      "notes": "Use 'en tiempo real' with preposition. Never 'tiempo-real' or 'a tiempo real'.",
+      "context": "Feature descriptions",
+      "approved": true
+    },
+    {
+      "english": "distributed teams",
+      "spanish": "equipos distribuidos",
+      "notes": "Preferred over 'equipos remotos' (remote teams) to emphasize distribution, not just remoteness.",
+      "context": "Target audience",
+      "approved": true
+    },
+    {
+      "english": "enterprise-grade",
+      "spanish": "nivel empresarial",
+      "notes": "Literal translation 'grado empresarial' sounds awkward. Use 'nivel empresarial' or 'para empresas'.",
+      "context": "Product positioning",
+      "approved": true
+    },
+    {
+      "english": "seamlessly",
+      "spanish": "sin problemas",
+      "notes": "Multiple options: 'sin problemas', 'perfectamente', 'fluidamente'. Choose based on context formality.",
+      "context": "Marketing copy",
+      "approved": true
+    },
+    {
+      "english": "notification fatigue",
+      "spanish": "fatiga de notificaciones",
+      "notes": "Direct translation works well. Alternative: 'sobrecarga de notificaciones' (notification overload).",
+      "context": "Feature benefits",
+      "approved": true
+    },
+    {
+      "english": "bank-level encryption",
+      "spanish": "encriptación de nivel bancario",
+      "notes": "Use 'encriptación' (Latin America) not 'cifrado' (Spain). Maintain 'nivel bancario' for trust.",
+      "context": "Security features",
+      "approved": true
+    },
+    {
+      "english": "GDPR compliance",
+      "spanish": "cumplimiento con RGPD",
+      "notes": "GDPR = RGPD (Reglamento General de Protección de Datos). Use full name on first mention.",
+      "context": "Legal/security",
+      "approved": true
+    },
+    {
+      "english": "SOC 2 certification",
+      "spanish": "certificación SOC 2",
+      "notes": "Keep SOC 2 as acronym (widely recognized). No need to translate Service Organization Control.",
+      "context": "Compliance",
+      "approved": true
+    },
+    {
+      "english": "third parties",
+      "spanish": "terceros",
+      "notes": "Standard legal/business term. Don't use 'terceras partes' which is overly literal.",
+      "context": "Privacy policy",
+      "approved": true
+    },
+    {
+      "english": "integrations",
+      "spanish": "integraciones",
+      "notes": "Direct cognate works perfectly. Avoid 'conexiones' or 'enlaces'.",
+      "context": "Product features",
+      "approved": true
+    },
+    {
+      "english": "workspace",
+      "spanish": "espacio de trabajo",
+      "notes": "Standard translation. Some markets use 'área de trabajo' but 'espacio' is more common.",
+      "context": "Product UI/features",
+      "approved": true
+    },
+    {
+      "english": "onboarding",
+      "spanish": "incorporación",
+      "notes": "Preferred over anglicism 'onboarding'. Alternative: 'integración inicial' for clarity.",
+      "context": "User experience",
+      "approved": true
+    },
+    {
+      "english": "game-changing",
+      "spanish": "revolucionaria",
+      "notes": "Idiomatic expression needs cultural adaptation. 'Revolucionaria' captures impact better than literal 'cambia el juego'.",
+      "context": "Customer testimonials",
+      "approved": true
+    },
+    {
+      "english": "peace of mind",
+      "spanish": "tranquilidad",
+      "notes": "Idiomatic expression. 'Tranquilidad' is natural, avoid literal 'paz mental'.",
+      "context": "Marketing/benefits",
+      "approved": true
+    },
+    {
+      "english": "non-negotiable",
+      "spanish": "innegociable",
+      "notes": "Direct cognate works. Alternative: 'requisito fundamental' (fundamental requirement).",
+      "context": "Customer requirements",
+      "approved": true
+    },
+    {
+      "english": "free trial",
+      "spanish": "prueba gratuita",
+      "notes": "Standard e-commerce term. Avoid 'trial gratis' (anglicism + redundancy).",
+      "context": "Pricing/CTAs",
+      "approved": true
+    },
+    {
+      "english": "no credit card required",
+      "spanish": "no se requiere tarjeta de crédito",
+      "notes": "Use impersonal 'se requiere' form. Common in Spanish marketing copy.",
+      "context": "Trial signup",
+      "approved": true
+    },
+    {
+      "english": "Business Plan",
+      "spanish": "Plan Empresarial",
+      "notes": "Capitalize as proper noun (product tier name). 'Empresarial' preferred over 'de Negocios'.",
+      "context": "Product tiers",
+      "approved": true
+    },
+    {
+      "english": "Enterprise Plan",
+      "spanish": "Plan Enterprise",
+      "notes": "Keep 'Enterprise' in English (industry standard for top tier). Alternative: 'Plan Corporativo'.",
+      "context": "Product tiers",
+      "approved": true,
+      "alternatives": ["Plan Corporativo"]
+    },
+    {
+      "english": "Contact Sales",
+      "spanish": "Contacte a Ventas",
+      "notes": "Formal command form. Alternative informal: 'Contacta Ventas' (for younger audiences).",
+      "context": "CTAs",
+      "approved": true
+    },
+    {
+      "english": "uptime SLA",
+      "spanish": "SLA de disponibilidad",
+      "notes": "Keep SLA acronym. 'Disponibilidad' preferred over 'tiempo activo' for professional context.",
+      "context": "Service levels",
+      "approved": true
+    },
+    {
+      "english": "on-premise deployment",
+      "spanish": "implementación local",
+      "notes": "Use 'local' (local/on-site) not 'en las instalaciones' (too wordy). Alternative: 'on-premise' kept as tech term.",
+      "context": "Enterprise features",
+      "approved": true
+    },
+    {
+      "english": "account manager",
+      "spanish": "gerente de cuenta",
+      "notes": "Standard business term. Some regions use 'ejecutivo de cuenta' (account executive).",
+      "context": "Support tiers",
+      "approved": true
+    },
+    {
+      "english": "API endpoints",
+      "spanish": "puntos finales de API",
+      "notes": "Translate 'endpoints' as 'puntos finales'. Keep API untranslated (universal acronym).",
+      "context": "Technical specs",
+      "approved": true
+    },
+    {
+      "english": "migration assistance",
+      "spanish": "asistencia de migración",
+      "notes": "Direct translation works. Alternative: 'ayuda con la migración' (slightly less formal).",
+      "context": "Services",
+      "approved": true
+    },
+    {
+      "english": "Business Associate Agreement",
+      "spanish": "Acuerdo de Asociado Comercial",
+      "notes": "HIPAA term. Keep as translated full name with (BAA) acronym in parentheses.",
+      "context": "Compliance/legal",
+      "approved": true
+    },
+    {
+      "english": "custom branding",
+      "spanish": "personalización de marca",
+      "notes": "Avoid anglicism 'branding'. Use 'personalización de marca' or 'marca personalizada'.",
+      "context": "Product features",
+      "approved": true
+    },
+    {
+      "english": "admin dashboard",
+      "spanish": "panel de administración",
+      "notes": "'Panel' preferred over 'tablero'. Keep lowercase unless at sentence start.",
+      "context": "Product UI",
+      "approved": true
+    },
+    {
+      "english": "priority support",
+      "spanish": "soporte prioritario",
+      "notes": "Adjective follows noun in Spanish. Alternative: 'soporte con prioridad'.",
+      "context": "Service tiers",
+      "approved": true
+    }
+  ],
+  "style_guide": {
+    "formality": "Business professional - use 'usted' form",
+    "tone": "Friendly but authoritative",
+    "number_format": "Use period for thousands (1.000), comma for decimals (1,5) per Latin American convention",
+    "currency": "Keep USD $ (international product)",
+    "phone_numbers": "Keep US format (international company)",
+    "capitalization": "Follow Spanish rules - capitalize less than English",
+    "brand_names": "Keep original: CloudSync Pro, CloudTech Inc.",
+    "technical_terms": "Translate when natural Spanish term exists, keep English when widely adopted (API, Cloud, SaaS)"
+  },
+  "regional_considerations": {
+    "target": "Latin America (primary), Spain (secondary)",
+    "vocabulary": "Use Latin American Spanish (encriptación not cifrado, computadora not ordenador)",
+    "pronouns": "Use inclusive 'ustedes' not Spain's 'vosotros'",
+    "currency_symbol": "$ (dollar sign) is standard in LatAm, not necessar to specify USD unless ambiguous"
+  }
+}
