@@ -6,7 +6,22 @@ MyClaude transforms AI from a chat interface into a **systematic workflow engine
 
 **Save 20-40 hours per month.** Reclaim 1 full work week every month.
 
-## 🚀 Quick Start (2 Minutes)
+---
+
+## 🚀 **NEW USER? START HERE!**
+
+### **Get Value in 2 Minutes →** [Quickstart Guide](docs/QUICKSTART.md)
+
+**No setup. No config. Just:**
+1. Pick your role (marketer, sales, PM, executive, researcher, developer)
+2. Copy-paste one command
+3. Experience 4-12x time savings immediately
+
+**First-timers:** Click the link above. Everything else can wait.
+
+---
+
+## 🏁 Quick Start (Installation)
 
 ```bash
 # 1. Clone this repository into your project
