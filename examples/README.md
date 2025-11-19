@@ -84,6 +84,30 @@ Each example shows:
 
 ---
 
+## 💻 Developer Workflow Examples
+
+### 7. Code Review
+**[View Example →](code-review/)**
+
+- **What**: Comprehensive code review with security, quality, and performance analysis
+- **Input**: "Review src/api/authentication/ directory"
+- **Output**: Professional code review report with security vulnerabilities, code quality assessment, architecture feedback, performance recommendations, and prioritized action items with code examples
+- **Time Saved**: 60 minutes → 10 minutes = **6x faster**
+- **Best For**: Pre-deployment reviews, security audits, onboarding code walkthroughs, technical debt identification
+
+---
+
+### 8. Feature Development
+**[View Example →](feature-development/)**
+
+- **What**: Systematic feature development from requirements to production
+- **Input**: "Add user notification preferences feature with email/SMS/push configuration"
+- **Output**: Complete 9-phase development plan with requirements analysis, technical design, database schema, API implementation, frontend code, tests (87% coverage), documentation, deployment plan, and runbook
+- **Time Saved**: 18 hours → 4.5 hours = **4x faster**
+- **Best For**: New features, refactoring projects, bug fixes, technical debt resolution, systematic prototyping
+
+---
+
 ## 📊 Impact Summary
 
 **If you use these workflows weekly:**
@@ -96,11 +120,13 @@ Each example shows:
 | Competitive Analysis | 1x/month | 2.5 hours |
 | Proposal & Pitch | 1x/month | 1.5 hours |
 | Meeting Prep | 2x/week | 3 hours |
+| Code Review | 3x/week | 2.5 hours |
+| Feature Development | 1x/week | 13.5 hours |
 
-**Total: ~16 hours saved per week = 2+ workdays reclaimed**
+**Total: ~32 hours saved per week = 4 full workdays reclaimed**
 
-**Monthly**: 64 hours saved = 1.5 work weeks
-**Annually**: 768 hours saved = 19+ work weeks
+**Monthly**: 128 hours saved = 3+ work weeks
+**Annually**: 1,536 hours saved = 38+ work weeks
 
 ---
 
@@ -122,6 +148,9 @@ Each example shows:
 
 **I'm a Researcher:**
 - Start with [Research & Synthesis](research-synthesis/) and [Proposal & Pitch](proposal-pitch/)
+
+**I'm a Developer:**
+- Check out [Code Review](code-review/) and [Feature Development](feature-development/)
 
 ### 2. Review the Output Quality
 
@@ -153,6 +182,12 @@ After reviewing examples, run the workflow with your own context:
 
 # Meeting prep example
 /workflows/meeting-prep "Your meeting context here"
+
+# Code review example
+/workflows/code-review "Your code directory or file path"
+
+# Feature development example
+/workflows/feature-development "Your feature description and requirements"
 ```
 
 ---
